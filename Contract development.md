@@ -47,24 +47,25 @@ In addition to using Postman to compile contracts, you can also use contract cod
 For example, the TradeOffer contract file we created last time, first open the contract file compilation contract with vim, and then execute the following command to determine whether the contract is correct
 
       ./equity/equity TradeOffer --bin
-     
+
  Compile contract：
- 
+
       ./equity/equity TradeOffer --instance 84fe51a7739e8e2fe28e7042bb114fd6d6abd09cd22af867729ea001c87cd550 1000 0014d6598ab7dce6b04d43f31ad6eed76b18da553e94 7975f3f71ca7f55ecdef53ccf44224d514bc584bc065770bba8dcdb9d7f9ae6c
-  
-      
-      
+
+
+​      
+​      
 As shown below：
- 
+
  ![avatar](https://github.com/huangxinglong/picture/blob/master/201811/15/build_contract_termal.png?raw=true)
- 
+
 
 
 ####Step4: request build-transaction interface
 
 The program returned by the development and compilation contract of the previous step is used as a parameter, and other parameters are referenced[Bytom development documentation](https://docs.bytom.io/mydoc_rpc_call.cn)
 
-![avatar](https://raw.githubusercontent.com/huangxinglongRpicture/master/201811/15/build-transaction.png)
+![avatar](https://raw.githubusercontent.com/huangxinglong/picture/master/201811/15/build-transaction.png)
 
 ####step5: request sign-transaction interface
 The data returned in the previous step is passed as an argument and then gets raw_transaction.
