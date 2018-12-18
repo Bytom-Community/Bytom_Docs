@@ -40,8 +40,8 @@
 
 ### Videos 视频
 
--[比原链整体设计&架构解读](https://bbug.club/33/)
--[比原链智能合约入门解读](https://bbug.club/37/)
+- [比原链整体设计&架构解读](https://bbug.club/33/)
+- [比原链智能合约入门解读](https://bbug.club/37/)
 
 
 
@@ -49,8 +49,8 @@
 
 ### SDK 工具包
 
--[java SDK](https://github.com/Bytom/bytom-java-sdk)
--[Node SDK](https://github.com/Bytom/bytom-node-sdk)
+- [java SDK](https://github.com/Bytom/bytom-java-sdk)
+- [Node SDK](https://github.com/Bytom/bytom-node-sdk)
 
 
 ### Research 最新研究
