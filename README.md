@@ -29,27 +29,33 @@
 
 ### Bytom 比原链进阶
 
-- [比原链白皮书]() 
-- [比原链入门]()
-- [比原链问题集锦]()
-- [比原链智能合约开发入门]()
-- [比原链设计原理设计原理]()
-- [比原链开发入门]()
-- [比原链源码阅读]()
+- [比原链白皮书中文](https://bytom.io/wp-content/themes/freddo/book/BytomWhitePaperV1.1.pdf)/[比原链白皮书英文](https://bytom.io/wp-content/themes/freddo/book/BytomWhitePaperV1.1_En.pdf)
+- [比原链入门](https://github.com/Bytom-Community/Bytom_Docs/blob/master/about_bytom/Bytom%20question%20highlights.md)
+- [比原链智能合约开发入门](https://docs.bytom.io/mydoc_smart_contract_overview.html)
+- [比原链开发入门](https://docs.bytom.io)
+- [比原链源码阅读](http://shanhuhai5739.github.io)
 - [Merkle Tree学习](http://blog.csdn.net/jiange_zh/article/details/53386250) 
 
 
 
 ### Videos 视频
 
+-[比原链整体设计&架构解读](https://bbug.club/33/)
+-[比原链智能合约入门解读](https://bbug.club/37/)
+
 
 
 ## PROJECT 项目
 
-
 ### SDK 工具包
+
+-[java SDK](https://github.com/Bytom/bytom-java-sdk)
+-[Node SDK](https://github.com/Bytom/bytom-node-sdk)
 
 
 ### Research 最新研究
+
+
+### Case 落地案例
 
 
